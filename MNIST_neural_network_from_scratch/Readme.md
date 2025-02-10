@@ -24,10 +24,7 @@ This repository contains a neural network model for predicting handwritten digit
 -  Folders containing the mnist datasets.
 
 ## **Usage**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/M.git
-   ```
+1. Clone the repository  
 2. Run the `model.ipynb` notebook to preprocess data, train the model, and perform inference (feel free to customize it yourself).
 3. Use the model saving and loading functions as needed to save your trained model and load it for future use (there's already a pre-saved model).
 
